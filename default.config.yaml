@@ -1,0 +1,55 @@
+---
+user_bin_path: 'code/bin'
+
+homebrew_cask_apps:
+  # - 1password
+  - 1password-cli
+  - codeql
+  - docker
+  - dropbox
+  # - firefox
+  - google-chrome
+  - handbrake
+  - inspec
+  - licecap
+  - multipass
+  - onionshare
+  - tunnelblick
+  # - slack
+  # - sublime-text
+  # telegram
+  - vagrant
+
+homebrew_cask_uninstalled_apps: []
+
+homebrew_installed_packages:
+  - ansible
+  - autoconf
+  - bash-completion
+  - bat
+  - dog
+  - dust
+  - git
+  - github/gh/gh
+  - go
+  - gpg
+  - jq
+  - nmap
+  - openssl
+  - prettyping
+  - pyenv
+  - terraform
+  - tmux
+  - trivy
+  - vault
+  - wget
+####  - ytop
+  - zsh-history-substring-search
+
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask
+
+homebrew_uninstalled_packages: []
+
+homebrew_upgrade_all_packages: true
