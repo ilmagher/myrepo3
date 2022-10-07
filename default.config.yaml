@@ -43,7 +43,7 @@ homebrew_installed_packages:
   - trivy
   - vault
   - wget
-####  - ytop
+####  - ytop ###
   - zsh-history-substring-search
 
 homebrew_taps:
